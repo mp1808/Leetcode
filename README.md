@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mp1808/Leetcode/tree/master/0020-valid-parentheses) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mp1808/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
