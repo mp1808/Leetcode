@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mp1808/Leetcode/tree/master/0069-sqrtx) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Matrix
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mp1808/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mp1808/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
