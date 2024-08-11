@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mp1808/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/mp1808/Leetcode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mp1808/Leetcode/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Matrix
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mp1808/Leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
