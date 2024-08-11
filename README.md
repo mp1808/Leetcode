@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mp1808/Leetcode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/mp1808/Leetcode/tree/master/0344-reverse-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mp1808/Leetcode/tree/master/0015-3sum) |
+| [0344-reverse-string](https://github.com/mp1808/Leetcode/tree/master/0344-reverse-string) |
 ## Depth-First Search
 |  |
 | ------- |
