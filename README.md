@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mp1808/Leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [2383-add-two-integers](https://github.com/mp1808/Leetcode/tree/master/2383-add-two-integers) |
 ## Matrix
 |  |
 | ------- |
