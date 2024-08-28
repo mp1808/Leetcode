@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mp1808/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mp1808/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/mp1808/Leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/mp1808/Leetcode/tree/master/0455-assign-cookies) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/mp1808/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mp1808/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mp1808/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mp1808/Leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -163,5 +165,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/mp1808/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
