@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mp1808/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/mp1808/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mp1808/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mp1808/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mp1808/Leetcode/tree/master/0069-sqrtx) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mp1808/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
