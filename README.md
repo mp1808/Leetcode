@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mp1808/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/mp1808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/mp1808/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mp1808/Leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/mp1808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/mp1808/Leetcode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mp1808/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mp1808/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/mp1808/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/mp1808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/mp1808/Leetcode/tree/master/0455-assign-cookies) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/mp1808/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
