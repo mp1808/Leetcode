@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mp1808/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mp1808/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/mp1808/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mp1808/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/mp1808/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/mp1808/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/mp1808/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Enumeration
 |  |
