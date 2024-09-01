@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mp1808/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mp1808/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/mp1808/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/mp1808/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/mp1808/Leetcode/tree/master/0455-assign-cookies) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mp1808/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/mp1808/Leetcode/tree/master/0136-single-number) |
 ## Tree
 |  |
 | ------- |
