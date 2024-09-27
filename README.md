@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/mp1808/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2238-a-number-after-a-double-reversal](https://github.com/mp1808/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/mp1808/Leetcode/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/mp1808/Leetcode/tree/master/2752-sum-multiples) |
 ## Matrix
 |  |
 | ------- |
