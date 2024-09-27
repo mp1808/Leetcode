@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mp1808/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/mp1808/Leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/mp1808/Leetcode/tree/master/0520-detect-capital) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
