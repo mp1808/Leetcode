@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mp1808/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
+| [0728-self-dividing-numbers](https://github.com/mp1808/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1585-the-kth-factor-of-n](https://github.com/mp1808/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2238-a-number-after-a-double-reversal](https://github.com/mp1808/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
