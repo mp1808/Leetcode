@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mp1808/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mp1808/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/mp1808/Leetcode/tree/master/0326-power-of-three) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mp1808/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mp1808/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mp1808/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mp1808/Leetcode/tree/master/0136-single-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mp1808/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Tree
 |  |
 | ------- |
