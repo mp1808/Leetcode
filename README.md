@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/mp1808/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mp1808/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mp1808/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mp1808/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/mp1808/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2238-a-number-after-a-double-reversal](https://github.com/mp1808/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/mp1808/Leetcode/tree/master/2383-add-two-integers) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mp1808/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/mp1808/Leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mp1808/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Matrix
