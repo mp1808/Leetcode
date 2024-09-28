@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mp1808/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mp1808/Leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/mp1808/Leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mp1808/Leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/mp1808/Leetcode/tree/master/0326-power-of-three) |
 ## Memoization
 |  |
 | ------- |
