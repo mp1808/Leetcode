@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/mp1808/Leetcode/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/mp1808/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1580-shuffle-the-array](https://github.com/mp1808/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mp1808/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mp1808/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Math
