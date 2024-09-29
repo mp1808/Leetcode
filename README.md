@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mp1808/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mp1808/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/mp1808/Leetcode/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/mp1808/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/mp1808/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mp1808/Leetcode/tree/master/0217-contains-duplicate) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mp1808/Leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/mp1808/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/mp1808/Leetcode/tree/master/1013-fibonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mp1808/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Number Theory
