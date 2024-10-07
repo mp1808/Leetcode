@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mp1808/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/mp1808/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mp1808/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/mp1808/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/mp1808/Leetcode/tree/master/0455-assign-cookies) |
 | [0598-range-addition-ii](https://github.com/mp1808/Leetcode/tree/master/0598-range-addition-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/mp1808/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mp1808/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mp1808/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mp1808/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/mp1808/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mp1808/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/mp1808/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mp1808/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
