@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mp1808/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/mp1808/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mp1808/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mp1808/Leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/mp1808/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mp1808/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mp1808/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mp1808/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/mp1808/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mp1808/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mp1808/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mp1808/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mp1808/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Math
 |  |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mp1808/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mp1808/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mp1808/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mp1808/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
