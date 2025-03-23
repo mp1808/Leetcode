@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mp1808/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/mp1808/Leetcode/tree/master/1013-fibonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mp1808/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/mp1808/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Number Theory
 |  |
 | ------- |
@@ -237,9 +238,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/mp1808/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mp1808/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/mp1808/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mp1808/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/mp1808/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
