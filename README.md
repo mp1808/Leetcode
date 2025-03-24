@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mp1808/Leetcode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mp1808/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mp1808/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/mp1808/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/mp1808/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mp1808/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mp1808/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3430-count-days-without-meetings](https://github.com/mp1808/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
 | ------- |
