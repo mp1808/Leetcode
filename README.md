@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mp1808/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/mp1808/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/mp1808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mp1808/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mp1808/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mp1808/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mp1808/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/mp1808/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/mp1808/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/mp1808/Leetcode/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/mp1808/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mp1808/Leetcode/tree/master/0036-valid-sudoku) |
 | [0870-magic-squares-in-grid](https://github.com/mp1808/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/mp1808/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mp1808/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
